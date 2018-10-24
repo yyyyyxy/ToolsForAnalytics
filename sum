@@ -1,5 +1,5 @@
 #!/bin/bash
-# Author:viv
+# Author:vivian
 sum=0
 for arg in $@ 
 # use @ to represent all arg after the file name
